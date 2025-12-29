@@ -6,7 +6,7 @@ The project simulates a real-world hospital scenario where patients are treated 
 
 Patients with higher priority (critical condition) are treated first, ensuring efficient emergency handling.
 
----
+
 
 ## 🎯 Objectives
 - To understand and apply **priority queue concepts**
@@ -15,7 +15,7 @@ Patients with higher priority (critical condition) are treated first, ensuring e
 - To implement **file handling** for persistent data storage
 - To improve logical thinking and problem-solving skills
 
----
+
 
 ## 🧩 Data Structures Used
 - **Priority Queue (Array-based implementation)**  
@@ -25,7 +25,7 @@ Patients with higher priority (critical condition) are treated first, ensuring e
 - **File Handling (`patients.txt`)**  
   Used to store and retrieve patient records permanently.
 
----
+
 
 ## ⚙️ Features
 - Add new patient details  
@@ -34,7 +34,7 @@ Patients with higher priority (critical condition) are treated first, ensuring e
 - Persistent storage using files  
 - Menu-driven and user-friendly interface  
 
----
+
 
 ## 🛠️ Technologies Used
 - Programming Language: **C**
@@ -42,7 +42,7 @@ Patients with higher priority (critical condition) are treated first, ensuring e
 - Platform: **Linux / Windows**
 - File Handling: **Text files**
 
----
+
 
 ## ▶️ How to Run the Program
 
@@ -55,20 +55,6 @@ Patients with higher priority (critical condition) are treated first, ensuring e
    ```bash
    ./hospital
 
-
----
-
-## 📸 Sample Output
-
-Sample output screenshots showing:
-- Adding patients
-- Treating patients
-- Displaying patient queue  
-
-are included in the **output_screenshots** folder.
-
----
-
 ## ⏱️ Time & Space Complexity
 
 | Operation        | Complexity |
@@ -77,7 +63,7 @@ are included in the **output_screenshots** folder.
 | Treat Patient    | O(n)       |
 | Display Patients | O(n)       |
 
----
+
 
 ## 💡 Innovation / Optimization
 
@@ -85,23 +71,16 @@ are included in the **output_screenshots** folder.
 - Persistent patient data storage  
 - Simple and efficient design suitable for real-time usage  
 
----
+
 
 ## 👨‍🎓 Team Details
 
-- Student Name 1 – USN  
-- Student Name 2 – USN  
-- (Optional) Student Name 3 – USN  
+- Karthik NH - 1RN24CD032  
+- Christo Savio George - 1RN24CD019
+- Karthik V - 1RN24CD033
+- Hardik M Prasad - 1RN24CD027
 
----
 
-## 👩‍🏫 Guide
-
-**Faculty Name**  
-Department of CSE (Data Science)  
-RNS Institute of Technology, Bengaluru  
-
----
 
 ## 📌 Conclusion
 
